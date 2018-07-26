@@ -1,5 +1,5 @@
 <?php 
 	echo "Hello World!";
-	echo "<h1>Title</h1>";
+	echo "<h1>Title1</h1>";
 
 ?>
